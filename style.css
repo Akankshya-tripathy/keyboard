@@ -4,7 +4,7 @@
         box-sizing: border-box;
 }
 .big{
-      background-color:pink;
+      background-color:rgb(105, 79, 83);
       height: 100vh;
       position: fixed;
       width: 100%;
@@ -16,7 +16,7 @@
       position: relative;
       height: 22rem;
       width: 50rem;
-      background-color: black;
+      background-color: rgb(39, 35, 35);
       margin-top: -2rem;
 }
 .power{
